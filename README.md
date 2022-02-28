@@ -61,4 +61,4 @@ and unzip in a folder of your choice
     ```
     env = UnityEnvironment(file_name="...")
     ```
-    change the folder path where you installed the Reacher unity environment.
+    change the folder path where you installed the Tennis Unity environment.
