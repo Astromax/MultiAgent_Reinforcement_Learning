@@ -1,6 +1,6 @@
 # MultiAgent_Reinforcement_Learning
 
-This repo contains a solution to the Unity "Tennis" environment using multi-agent DDPG.  
+This repo contains a solution to the Unity "Tennis" environment using multi-agent DDPG, the Agent in Experiment 6 passes after 3,813 episodes, while the one in Experiment 8 passes in 1,783 episodes.
 
 # Environment
 In this environment, two agents each control a racket to bat a ball back & forth across a net.  The rewards are +0.1 for getting it over the net and -0.01 for letting it hit the ground or go out of bounds. 
